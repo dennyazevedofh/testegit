@@ -2,3 +2,21 @@ h1 {
     color: red;
     background-color: yellow;
 }
+
+/*
+	Configurações Gerais
+*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap');
+
+:root {
+	--decoPrinc: #b28756;
+	--bgColor: #000;
+	--fgColor: #fff;
+	--destaMenu: #ccc;
+	--descColorLight: #ccc;
+	--bgDefLight: #f7f7f7;
+	--titColorLight: #000;
+	--bgDefDark: #000;
+	--titColorDark: #fff;
+	--textService: #999;
+}
